@@ -1,0 +1,17 @@
+# Secrets & Environment
+.env
+*.local
+
+# Dependencies & Builds
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+dist/
+build/
+
+# IDE Metadata
+.vscode/
+.idea/
+*.DS_Store
